@@ -1,6 +1,7 @@
 # Hello, I'm Yanna Lin! 🌸👋
 
 Welcome to my GitHub profile! I'm a university student studying computer science and looking for new grad software engineering opportunities. Below, you'll find some information about me and the projects I'm working on.
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=linyanna)
 
 ## About Me
