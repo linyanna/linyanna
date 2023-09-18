@@ -22,7 +22,7 @@ Here are some of my favorite projects. Feel free to explore and contribute!
 ## 🚀 Things I Like!
 - Listening to/playing music ([Spotify](https://open.spotify.com/user/klop1w3?si=f921436b71e24439))
 - Books ([Goodreads](https://goodreads.com/yannalin))
-- Watching films and shows
+- Watching films and shows ([Letterboxd](https://letterboxd.com/letterbot1w3/))
 - Japanese animation (Studio Ghibli, Makoto Shinkai, Satoshi Kon, etc.)
 - Playing video games ([Stardew Valley](https://stardewvalley.net/), [Genshin Impact](https://genshin.hoyoverse.com/en/))
 - Podcasts ([Darknet Diaries](https://darknetdiaries.com/), [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast/), [Ologies with Alie Ward](https://www.alieward.com/ologies))
